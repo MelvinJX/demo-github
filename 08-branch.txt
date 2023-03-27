@@ -24,6 +24,7 @@ git branch <nom>
 git branch menu / créer la branch menu, une branch parallèle à la principale
 git chekcout <nom>
 git checkout menu / se déplacer de la branch principale vers la branch menu
+git branch // savoir sur quelle branch je travaille
 
 --- 2
 travailler...
