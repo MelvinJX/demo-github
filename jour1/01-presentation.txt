@@ -1,0 +1,41 @@
+Git : logiciel qui permet de réaliser du VERSIONNING de notre code
+- Palette d'outils de l'informaticien
+- Permet de garder une trace de toutes version de notre code
+- Il va permettre d'éviter de dupliquer du code pour garder
+
+index.html => écrire du html dedans => enregistrer
+index.html => ajouter une barre de menu => enregistrer
+index.html => correction de la largeur d'un élément => enregistrer
+
+Je garde une copie du fichier index.html en plus du fichier index.html dans le cas où je n'arrive plus à avancer => revenir en arrière
+
+index.html => VERSIONNING (à la main)
+index-v0.html
+index-v1.html
+index-03-2023.html
+
+Une seule personne qui code et qui créer les archives des anciennes versions ce n'est pas optimal mais c'est gérable
+Si plus de 2 développeurs travaille sur 1 projet
+=> index.html
+=> index.v0-Alain.html => Menu
+=> index.v1-Alain.html
+
+=> index.html
+=> index.v0-Céline.html => Diaporama
+=> index.v1-Céline.html
+
+=> comment réconcillier le travail des 2 développeurs
+=> l'un des développeurs va récupérer le travail de l'autre (email/ weTransfer...)
+
+=> Le VERSIONNING permet de garder une copie de chaque version du projet
+=> permet de réconcillier une copie du projet réalisé par un autre développeur
+
+Comment git va réaliser ce travail : répondre à 4 questions
+- qui ?(réaliser la modification)
+- quand ?(saisir des commandes et daté, horodaté)
+- pourquoi ?(explication de l'ajout / modif du code)
+- où ?(quel fichier / quel ligne a été ajouté / modifié)
+
+Git init
+Initialized empty repository in C://Users/Badsu/OneDrive/Bureau/GIT/.git/
+=> Crée un ficheir caché .git dans le dossier en cours
