@@ -28,4 +28,4 @@ utiliser le bouton commit => ne pas oublier le message
 
 --------------------------
 
-créer des branches facilement dans Visual Studio y
+créer des branches facilement dans Visual Studio y gtr
