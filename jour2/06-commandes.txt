@@ -1,0 +1,5 @@
+git branch : liste des branch
+git branch <nom> : créer une branch
+git branch -d <nom> : supprimer une branch si elle a été fusionnée ou conflit résolu
+git branch -D <nom> : supprimer une branch fusionnée ou non, ou non résolu
+git branch --help : redirection vers la doc du git branch
