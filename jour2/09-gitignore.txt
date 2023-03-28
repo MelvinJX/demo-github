@@ -1,0 +1,9 @@
+On peut créer un fichier .gitignore
+
+Créer un fichier qui a uniquement une extension 
+
+fichier de configuration du projet
+ce fichier donne des instructions
+
+le fichier .gitignore peut être créé n'importe où dans votre projet 
+en général il est mit à la racine du projet 

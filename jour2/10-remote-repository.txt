@@ -1,0 +1,21 @@
+10-remote-repository.txt
+
+remote => distant
+repository => depot
+
+stocker le dossier .gitignore
+envoyer les fichiers source + le dossier .git (repository local)
+site internet qui peut recevoir
+
+git remote add origin https://MelvinJX@bitbucket.org/cours-git-melvin/demo.git
+git distant connecté les 2 git (local & remote)
+
+git remote 
+    add origin https://MelvinJX@bitbucket.org/cours-git-melvin/demo.git
+
+    origin (alias de l'url) = https://MelvinJX@bitbucket.org/cours-git-melvin/demo.git
+    origin à la place de saisir l'url complet
+
+git push -u origin master
+
+<h1>Ajout du h1 dans le fichier remote-repository.txt</h1>
