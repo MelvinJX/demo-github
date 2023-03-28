@@ -1,0 +1,3 @@
+git push local sur la branch en cours  > distant en cours
+
+git pull remote > local

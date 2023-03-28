@@ -19,3 +19,8 @@ git remote
 git push -u origin master
 
 <h1>Ajout du h1 dans le fichier remote-repository.txt</h1>
+
+-------------------
+
+bitbucket
+Systèmes d'onglets => source (liste de tous les fichiers que l'on va partager si le projet est publique)
