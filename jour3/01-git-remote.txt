@@ -30,5 +30,12 @@ git push (il va rajouter automatiquement)
 
 si plusieurs remote
 git push <nom> <branch>
-git push github main
+git push github master
 
+-----------------
+
+1 créer le compte github
+2 remplir le formulaire (nom)
+3 créer repo
+4 git remote add origin https://github.com/MelvinJX/demo-github.git
+5 git push -u github master
