@@ -1,0 +1,5 @@
+je suis sur github
+=> je trouve un projet intéressant
+=> j'aimerai l'utiliser => git clone 
+=> ke constate des améliorations possibles
+=> j'aimerai 

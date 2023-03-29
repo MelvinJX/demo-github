@@ -13,3 +13,13 @@ git clone => si on veut récupérer un projet distant intégralement
 git add --all
 git commit -m "..."
 git push github main
+
+---------------
+
+projet à 100% nouveau (je n'ai pas en local de dossier / .git)
+et je veux le récupérer à 100%
+
+git init
+depot et source distantes
+
+=> git clone 
