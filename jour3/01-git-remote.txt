@@ -1,0 +1,15 @@
+git remote : permet d'établier un lien avec un dépôt distant
+
+git remote add <nom> <url>
+git remote add origin <url>
+
+il est possible de les supprimer
+
+git remote remove <nom>
+git remote remove origin
+
+La liste des remote à disposition
+git remote
+
+git remote -v
+git remote --verbose
