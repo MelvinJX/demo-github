@@ -1,0 +1,8 @@
+github pages=> permet de mettre en ligne des pages web statiques (css / html et js)
+
+Branch spéciale ? Non, n'importe quelle branch.
+Combien de temps ? 2 minutes max sinon problème.
+Il faut un fichier index.html à la racine d'une branch
+
+1. Créer un fichier index.html à la racine de mon projet sur la branch master
+2. Push vers le dépot distant
